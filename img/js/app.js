@@ -1,10 +1,3 @@
-/*
-Student Name: Samarpreet Singh
-Student Number: 200510621
-Program: CMPG 2 Year Diploma
-Section and CRN: Tuesday 12PM, 11384
-*/
-// Assignment 1 | COMP1073 Client-Side JavaScript
 
 /* Variables
 -------------------------------------------------- */
